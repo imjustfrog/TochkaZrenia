@@ -1,0 +1,7 @@
+{
+    "rtsp_url": "rtsp://ins046msc:wQpQk35t@85.141.77.197:7554/ISAPI/Streaming/Channels/103",
+    "window_size": 30,
+    "threshold_ratio": 0.3,
+    "check_interval": 30,
+    "log_file": "bitrate_monitor.log"
+}
