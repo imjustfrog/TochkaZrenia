@@ -8,7 +8,7 @@
 2. **HTML**
 4. **JavaScript**
 5. **CSS**
-6. **OpenCV**
+6. **Библиотеки: OpenCV, NumPy**
 
 ## ✨ Возможности
 
