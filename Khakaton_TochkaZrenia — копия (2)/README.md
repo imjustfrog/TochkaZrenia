@@ -2,7 +2,7 @@
 
 Веб-интерфейс для мониторинга камер с отображением логов в реальном времени.
 
-**Видео** - https://drive.google.com/drive/folders/1QQZXtked-XSM_hKXbsPNn54688ab8sUc?usp=sharing
+**Видео демонстрация проекта** - https://drive.google.com/drive/folders/1QQZXtked-XSM_hKXbsPNn54688ab8sUc?usp=sharing
 
 ## Стек технологий
 
